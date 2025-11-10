@@ -12,6 +12,10 @@ sys.path.insert(0, str(Path(__file__).resolve().parents[2]))
 # https://www.sphinx-doc.org/en/master/usage/configuration.html#project-information
 
 project = "Work-Journal"
+html_title = "Work-Journal"
+html_short_title = "Work-Journal"
+version = "0.1.0"
+release = "0.1.0"
 copyright = "2025, Tenzin Tobatsang"
 author = "Tenzin Tobatsang"
 
