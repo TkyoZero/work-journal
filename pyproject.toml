@@ -1,1 +1,3 @@
-
+[project]
+name = "work-journal"
+version = "0.1.0"
