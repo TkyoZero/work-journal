@@ -1,5 +1,5 @@
 Journals
-=======
+========
 
 .. toctree::
     :maxdepth: 1
