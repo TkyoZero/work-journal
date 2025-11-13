@@ -8,12 +8,12 @@ Work-Journal
 
 
 .. toctree::
+    :maxdepth: 2
+    :caption: Contents:
 
-   daily
-   weekly
+    daily
+    journals
 
-   :maxdepth: 2
-   :caption: Contents:
 
 .. note::
 
