@@ -13,6 +13,7 @@ Work-Journal
 
     daily
     journals
+    fall_detection_documentation
 
 
 .. note::
